@@ -36,9 +36,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atk_meow&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&icon_color=FF6B9D&text_color=555555&ring_color=FF6B9D" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atkmeow&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&icon_color=FF6B9D&text_color=555555&ring_color=FF6B9D" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atk_meow&layout=compact&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&text_color=555555" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atkmeow&layout=compact&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&text_color=555555" height="160"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atk_meow&bg_color=fff0f5&color=FF6B9D&line=FF6B9D&point=cc3377&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atkmeow&bg_color=fff0f5&color=FF6B9D&line=FF6B9D&point=cc3377&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -60,7 +60,7 @@
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@vuanguzz)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vuanguzzz)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/atkmeow)
 
 </div>
 
@@ -84,6 +84,6 @@
 
 <br/>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=atk_meow.atk_meow&color=FF6B9D&style=flat-square)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=atkmeow.atkmeow&color=FF6B9D&style=flat-square)
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=100&section=header&text=atk_meow&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=100&section=header&text=atk-meoww&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Web+Fullstack+Developer;Code+with+all+my+heart;Always+learning+new+things" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 ## 🌷 About Me
 
 ```
-🌸  Mình là atk_meow — Fullstack Developer yêu đời & yêu code 💖
+🌸  Mình là atk-meoww — Fullstack Developer yêu đời & yêu code 💖
 💻  Đang xây dựng những website vừa xinh vừa mạnh!
 🌱  Luôn học hỏi và phát triển mỗi ngày ✨
 ☕  Không có cà phê thì không có code 🫶
@@ -36,9 +36,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atkmeow&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&icon_color=FF6B9D&text_color=555555&ring_color=FF6B9D" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atk-meoww&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&icon_color=FF6B9D&text_color=555555&ring_color=FF6B9D" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atkmeow&layout=compact&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&text_color=555555" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atk-meoww&layout=compact&hide_border=true&bg_color=fff0f5&title_color=FF6B9D&text_color=555555" height="160"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atkmeow&bg_color=fff0f5&color=FF6B9D&line=FF6B9D&point=cc3377&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atk-meoww&bg_color=fff0f5&color=FF6B9D&line=FF6B9D&point=cc3377&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -84,6 +84,6 @@
 
 <br/>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=atkmeow.atkmeow&color=FF6B9D&style=flat-square)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=atk-meoww.atk-meoww&color=FF6B9D&style=flat-square)
 
 </div>

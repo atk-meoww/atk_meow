@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=FF6B9D&center=true&vCenter=true&width=650&lines=🌸+Xin+chào!+Mình+là+atk_meow+🌸;✨+Web+Fullstack+Developer+✨;💖+Code+với+cả+trái+tim+💖" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=100&section=header&text=atk_meow&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Web+Fullstack+Developer;Code+with+all+my+heart;Always+learning+new+things" alt="Typing SVG" />
 
 
 </div>
@@ -24,7 +26,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,python,vscode,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,python,nodejs,docker,discord,vscode,github&perline=6)](https://skillicons.dev)
 
 </div>
 
